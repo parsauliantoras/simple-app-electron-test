@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey;
+}
+
+#addperson-body {
+    margin: 2rem auto;
+    background-color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+#addperson-body h2 {
+    padding: 0 0 1rem 0;
+    margin: 0;
+}
+
+#getperson-body {
+    margin: 2rem auto;
+    background-color: white;
+    text-align: center;
+    padding: 2rem;
+}
